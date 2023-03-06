@@ -1,0 +1,14 @@
+IoC #,IoC Type,Boolean characteristic,Numerical characteristic,String characteristic,Timestamp
+1,sha256,1,90,loremipsum,1672527601
+2,filename,1,8761,loremipsumdolor,1672614001
+3,domain,0,2121,loremipsumamet,1672834152
+4,hostname,1,1092,loremipsumsitamet,1674295238
+5,hostname,0,7650,loremipsumxyz,1672587412
+6,sha256,1,6068,loremipsumdoloramet,1672954682
+7,sha256,0,400,kwxyzqv,1674289160
+8,sha256,0,9115,consecteturadipiscingelit,1673579514
+9,domain,0,3673,consecteturadipiscingdolor,1673698521
+10,filename,1,4521,kwxyz,1672894578
+11,filename,0,159,xyzq,1673483296
+12,sha1,0,2158,seddoeiusmodadispingelit,1674568685
+13,domain,1,3127,xyloresed,1674721967
